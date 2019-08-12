@@ -1,5 +1,5 @@
 class profile::ssh_server {
-  package {'openssl-server':
+  package {'openssh-server':
     ensure => present
   }
   service {'sshd':
