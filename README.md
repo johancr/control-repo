@@ -1,2 +1,2 @@
-# control_repo
-this is a change
+# control-repo
+https://www.linkedin.com/learning/learning-puppet
